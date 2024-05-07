@@ -1,0 +1,1 @@
+ -LD:/mysql5.1/mysql-5.7.24-winx64/include -llibmysql -llibmysql -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -21,7 +21,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="2fV7xEOgu9W86gI1VpvKy4xezHK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -59,6 +63,7 @@
       <workItem from="1714205044394" duration="6936000" />
       <workItem from="1714223918344" duration="1730000" />
       <workItem from="1714266088117" duration="6750000" />
+      <workItem from="1714401202742" duration="158000" />
     </task>
     <servers />
   </component>
